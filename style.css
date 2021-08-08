@@ -7,9 +7,6 @@
 
 .carousel-item {
   height: 450px; }
-
-#homeicon .fa {
-  font-size: 50px; }
 .carousel-img-1 {
   background: url(image1.jpeg);
   background-size: cover; }
@@ -21,6 +18,9 @@
 .carousel-img-3 {
   background: url(image3.jpeg);
   background-size: cover; }
+#homeicon .fa {
+  font-size: 50px; }
+
 
 #getstarted {
   background: url(bg1.jpeg);
